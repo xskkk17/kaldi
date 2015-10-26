@@ -102,3 +102,16 @@ GSYMS
 /tools/mpg123-1.21.0
 /tools/sequitur
 /tools/srilm.tgz
+
+# ignore by skxu
+/tools/OpenBLAS-v0.2.14-Win64-int32/
+/tools/download_tools/
+/tools/patch-2.5.9-7-bin/
+
+#/windows/
+/windows/kaldiwin.props
+/windows/variables.props
+/windows/kaldiwin_projguids.txt
+
+/kaldiwin_vs2013_MKL_CUDA/
+
