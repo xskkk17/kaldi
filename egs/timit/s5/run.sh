@@ -36,7 +36,8 @@ echo "                Data & Lexicon & Language Preparation                     
 echo ============================================================================
 
 #timit=/export/corpora5/LDC/LDC93S1/timit/TIMIT # @JHU
-timit=/mnt/matylda2/data/TIMIT/timit # @BUT
+#timit=/mnt/matylda2/data/TIMIT/timit # @BUT
+timit=/disk1/skxu/data/TIMIT
 
 local/timit_data_prep.sh $timit || exit 1
 
